@@ -1,6 +1,6 @@
 # COVID-19 Fake News Detector
 🌐 **[Project page](https://nikolailen.github.io/covid19-fake-news-detector/)**
-Project contact: **Nikolai Len**
+Project contact: **[Nikolai Len](https://www.linkedin.com/in/niklen/)**
 
 This repository contains a deep-learning NLP pipeline for binary classification of COVID-19-related text as `fake` or `real`.
 
