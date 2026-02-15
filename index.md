@@ -233,7 +233,7 @@ Consistent with [16](#ref-16), model selection remains use-case dependent: shall
 ## Contact
 
 Nikolai Len  
-🌐 [LinkedIn](https://www.linkedin.com/in/niklen/)
+👤 [LinkedIn](https://www.linkedin.com/in/niklen/)
 
 
 
