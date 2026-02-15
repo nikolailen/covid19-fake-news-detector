@@ -227,3 +227,10 @@ Consistent with [16](#ref-16), model selection remains use-case dependent: shall
 <a id="ref-16"></a>
 - [16] Zhukov V. Choosing the best architecture for your text classification task. [Source](https://medium.com/toloka/choosing-the-best-architecture-for-your-text-classification-task-aee30ecc7870)
 
+---
+
+## Contact
+
+Nikolai Len  
+🌐 [LinkedIn](https://www.linkedin.com/in/niklen/)
+
