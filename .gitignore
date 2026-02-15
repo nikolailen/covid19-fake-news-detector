@@ -1,0 +1,15 @@
+﻿# Publish set: keep only the files/folders planned for GitHub
+*
+
+# Always keep ignore rules file
+!.gitignore
+
+# Planned push artifacts
+!covid19_fakenews_stella_training.ipynb
+!requirements.txt
+!final_combined_dataset.csv
+!visuals/
+!visuals/**
+!index.md
+!README.md
+!readme.md

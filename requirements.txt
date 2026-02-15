@@ -1,0 +1,16 @@
+# Minimal pinned requirements for this notebook pipeline
+# Source of pins: final_combined_dataset.txt (+ torch version extracted from CUDA wheel pin)
+numpy==1.26.4
+pandas==2.2.2
+torch==2.4.1
+transformers==4.44.2
+tokenizers==0.19.1
+sentencepiece==0.2.0
+safetensors==0.4.5
+scikit-learn==1.5.2
+matplotlib==3.7.1
+seaborn==0.13.2
+tqdm==4.66.5
+
+# Optional CUDA-only acceleration (install at runtime if available):
+# flash-attn
