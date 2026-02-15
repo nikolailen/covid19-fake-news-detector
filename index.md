@@ -3,7 +3,7 @@
 Data ScienceTech Institute, 2024
 
 Contributors: Costa L., Romeo L., Len N., Herbet A.
-Repository maintainer: Nikolai Len
+Project contact: Nikolai Len
 
 ## Introduction
 As discussed in early 2024 by WHO contributors, the COVID-19 crisis involved not only an epidemic but also an "infodemic" of misleading information [1](#ref-1). Misinformation can alter protective behavior and worsen public-health outcomes. In the UK, online misinformation about mask wearing was associated with an estimated 21,947 additional COVID-19 cases, 2,187 hospitalizations, and 509 deaths between April 1 and November 10, 2020 [2](#ref-2). In the US survey by Neely et al., vaccination rates decreased from 73.8% among respondents with no reported exposure to vaccine misinformation to 52.2% among respondents exposed to six or more misinformation themes [3](#ref-3). These findings motivated us to frame this work as a binary text-classification problem and train an NLP-based detector.
@@ -233,6 +233,7 @@ Consistent with [16](#ref-16), model selection remains use-case dependent: shall
 ## Contact
 
 Nikolai Len  
-🌐 [Nikolai Len on LinkedIn](https://www.linkedin.com/in/niklen/)
+🌐 [LinkedIn](https://www.linkedin.com/in/niklen/)
+
 
 
