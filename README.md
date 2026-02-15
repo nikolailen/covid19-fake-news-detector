@@ -25,14 +25,13 @@ The goal is to detect misinformation in COVID-19 textual content using:
 1. Environment setup and dependency installation (`%pip install -r requirements.txt`)
 2. Optional `flash-attn` installation with runtime checks and fallback
 3. Local dataset loading with schema checks and cleanup
-4. Dataset hash verification with `final_combined_dataset.sha256`
-5. Embedding generation (Stella)
-6. Stratified K-fold CV (`train_model_cv`)
-7. Retraining with best weight decay (`retrain_with_best_decay`)
-8. Evaluation (`evaluate_model`) with:
+4. Embedding generation (Stella)
+5. Stratified K-fold CV (`train_model_cv`)
+6. Retraining with best weight decay (`retrain_with_best_decay`)
+7. Evaluation (`evaluate_model`) with:
    - accuracy, classification report, confusion matrix
    - ROC/AUC from probabilities (`y_score`)
-9. Artifact saving:
+8. Artifact saving:
    - model weights: `stella_model.pth`
    - reproducibility metadata: `stella_model_config.json`
 
@@ -52,7 +51,6 @@ See `index.md` for full methodology, discussion, and references.
 |- covid19_fakenews_stella_training.ipynb
 |- requirements.txt
 |- final_combined_dataset.csv
-|- final_combined_dataset.sha256
 |- index.md
 |- visuals/
 `- README.md
@@ -76,3 +74,7 @@ See `index.md` for full methodology, discussion, and references.
 - Labels are normalized to lowercase and empty text rows are removed.
 - `flash-attn` is optional and only attempted when CUDA is available.
 - The notebook is kept clean for version control (no saved outputs/execution counts).
+
+## License
+
+This project is licensed under the MIT License.
