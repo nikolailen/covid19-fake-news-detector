@@ -234,6 +234,7 @@ Consistent with [16](#ref-16), model selection remains use-case dependent: shall
 
 Nikolai Len  
 👤 [LinkedIn](https://www.linkedin.com/in/niklen/)
+💻 Code repository: [covid19-fake-news-detector](https://github.com/nikolailen/covid19-fake-news-detector)
 
 
 
