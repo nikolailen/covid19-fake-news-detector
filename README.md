@@ -9,6 +9,7 @@ The implementation is in a notebook-first format:
 - Main notebook: `covid19_fakenews_stella_training.ipynb`
 - Dataset: `final_combined_dataset.csv`
 - Report-style project write-up: `index.md`
+- Report PDF: [Deeplearning COVID19 Fakenews Project 2024.pdf](./Deeplearning%20COVID19%20Fakenews%20Project%202024.pdf)
 - Visual assets: `visuals/`
 
 ## Project Scope
